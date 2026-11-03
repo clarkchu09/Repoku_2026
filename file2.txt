@@ -1,1 +1,2 @@
-file kedua
+Ini adalah file kedua.
+File ini diedit melalui GitHub.
